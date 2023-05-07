@@ -6,7 +6,7 @@ Script to filter M3U list based on specified groups.
 
 1. Install Python requirement.
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 2. Edit configurations.
